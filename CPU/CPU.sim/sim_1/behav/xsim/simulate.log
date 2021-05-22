@@ -1,0 +1,6 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module ifetc32_tb.Uifetch.instmem.inst.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+$finish called at time : 64 ns : File "D:/jizu_verilog/CPU/CPU.srcs/sim_1/new/ifetc32_tb.v" Line 78
